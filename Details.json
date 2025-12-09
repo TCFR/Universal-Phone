@@ -1,9 +1,9 @@
 {
-  "Versions": [
+  "Versions": {
     "0.0.0": "Build Version"
-  ],
-  "DeviceInfo": [
+  },
+  "DeviceInfo": {
     "DeviceName": "Universal Phone",
     "OS": "Skynet"
-  ]
+    }
 }
